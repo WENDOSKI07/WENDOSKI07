@@ -1,62 +1,66 @@
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Oscar Ricaurte — WENDOSKI07. Terminal animada de desarrollo y proyectos." />
+  <img src="./assets/terminal.svg" width="100%" alt="Oscar Ricaurte — Backend Developer. APIs REST, Node.js, Redis y SQL. Estudiante de Ingeniería en Analítica de Datos." />
 </p>
 
 <p align="center">
-  <a href="#proyectos">Proyectos</a> &nbsp; / &nbsp;
-  <a href="#tecnologias">Tecnologías</a> &nbsp; / &nbsp;
-  <a href="https://github.com/WENDOSKI07?tab=repositories">Todos los repositorios</a>
+  <a href="#sobre-mi">Sobre mí</a> &nbsp; / &nbsp;
+  <a href="#stack">Stack</a> &nbsp; / &nbsp;
+  <a href="#experiencia">Experiencia</a> &nbsp; / &nbsp;
+  <a href="https://github.com/WENDOSKI07?tab=repositories">Repositorios</a>
 </p>
 
-<br />
+<a id="sobre-mi"></a>
 
-### `01 / whoami`
+## `$ whoami`
 
-Soy **Oscar Ricaurte**, **WENDOSKI07** en GitHub. Este es mi espacio para compartir código, explorar ideas y construir proyectos.
+Soy **Oscar Ricaurte**, desarrollador backend. Trabajo con **Node.js, APIs REST e integraciones** para aplicaciones web y plataformas de mensajería. Mi experiencia incluye bases de datos relacionales, Redis y despliegues con Docker en Linux.
 
-> Cada proyecto, una nueva forma de aprender.
+Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. Estoy ampliando mi formación para conectar el desarrollo de servicios con el análisis de datos.
 
-<br />
+<a id="stack"></a>
 
-<a id="proyectos"></a>
-### `02 / projects`
+## `$ cat tech-stack.yml`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / WEB</sub>
-<h3><a href="https://github.com/WENDOSKI07/ProyectoGit-">ProyectoGit- ↗</a></h3>
-<p>Proyecto web de mi colección pública.</p>
-<p><code>HTML</code></p>
-<a href="https://github.com/WENDOSKI07/ProyectoGit-">Explorar código →</a>
-</td>
-<td width="50%" valign="top">
-<sub>02 / EJEMPLOS</sub>
-<h3><a href="https://github.com/WENDOSKI07/ejemplos_php">ejemplos_php ↗</a></h3>
-<p>Repositorio de ejemplos para consultar y practicar.</p>
-<p><code>Ejercicios</code></p>
-<a href="https://github.com/WENDOSKI07/ejemplos_php">Explorar código →</a>
-</td>
-</tr>
-</table>
+<img src="./assets/stack.svg" width="100%" alt="Backend: Node.js, JavaScript y Java. Datos: MariaDB, PostgreSQL y Redis. Infraestructura: Docker, Linux y Git. Herramientas complementarias: Python, React y Next.js." />
 
-<p align="right"><a href="https://github.com/WENDOSKI07?tab=repositories">Ver todos mis repositorios ↗</a></p>
+<a id="experiencia"></a>
 
-<a id="tecnologias"></a>
-### `03 / toolkit`
+## `$ ls experience/`
 
-Tecnologías presentes en mi código público:
+<p>
+  <img src="./assets/messaging.svg" width="49%" alt="Axiona — Backend. Plataforma de mensajería con WhatsApp, CRM y bots; servicios, campañas e integraciones con Node.js, MariaDB y Redis." />
+  <img src="./assets/management.svg" width="49%" alt="GIT Colombia — Desarrollo. Aplicación de gestión de personal y soporte técnico, en equipo, con Node.js, React y Git." />
+</p>
 
-` HTML ` &nbsp; ` CSS ` &nbsp; ` SCSS ` &nbsp; ` JavaScript `
+- **Axiona · Backend Developer** — Desarrollo y mantenimiento de APIs, flujos de mensajería e integraciones. Despliegue en Linux con Docker y resolución de incidencias mediante logs, bases de datos y monitoreo.
+- **GIT Colombia · Desarrollo de software por proyecto** — Backend con Node.js y componentes de React para una aplicación de gestión de personal y soporte técnico, junto a un equipo de cinco personas.
+- **VC Soft · Prácticas de desarrollo de software** — Revisión de pruebas de código y proyectos técnicos, y apoyo a entrevistas y evaluación de perfiles junior.
 
-<br />
+## `$ cat learning.md`
 
-### `04 / activity`
+**Ingeniería en Analítica de Datos · en curso desde 2026**<br />
+Universidad de Manizales
 
-Mis contribuciones aparecen en el gráfico de GitHub, debajo de este README.
+**Tecnólogo en Análisis y Desarrollo de Software · 2025**<br />
+SENA
 
-[Explorar repositorios y actividad →](https://github.com/WENDOSKI07?tab=repositories)
+`Backend` → `APIs e integraciones` → `Analítica de datos`
+
+<details>
+<summary><strong>Explorar mis repositorios públicos</strong></summary>
+
+Una selección de ejercicios y proyectos publicados:
+
+- [ProyectoGit-](https://github.com/WENDOSKI07/ProyectoGit-)
+- [ejemplos_php](https://github.com/WENDOSKI07/ejemplos_php)
+- [Ver todos los repositorios](https://github.com/WENDOSKI07?tab=repositories)
+
+</details>
 
 ---
 
-<p align="center"><sub>OSCAR RICAURTE &nbsp; / &nbsp; WENDOSKI07 &nbsp; / &nbsp; CODE · LEARN · BUILD</sub></p>
+<p align="center">
+  <strong>OSCAR RICAURTE</strong><br />
+  <sub>Backend · APIs · Datos</sub><br /><br />
+  <a href="https://github.com/WENDOSKI07?tab=repositories">Explorar mi código ↗</a>
+</p>
