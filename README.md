@@ -4,28 +4,28 @@
 
 <p align="center">
   <a href="#sobre-mi">Sobre mí</a> &nbsp; / &nbsp;
-  <a href="#stack">Stack</a> &nbsp; / &nbsp;
+  <a href="#stack">Tecnologías</a> &nbsp; / &nbsp;
   <a href="#experiencia">Experiencia</a> &nbsp; / &nbsp;
   <a href="https://github.com/WENDOSKI07?tab=repositories">Repositorios</a>
 </p>
 
 <a id="sobre-mi"></a>
 
-## `$ whoami`
+## Sobre mí
 
 Soy **Oscar Ricaurte**, desarrollador backend. Trabajo con **Node.js, APIs REST e integraciones** para aplicaciones web y plataformas de mensajería. Mi experiencia incluye bases de datos relacionales, Redis y despliegues con Docker en Linux.
 
-Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. Estoy ampliando mi formación para conectar el desarrollo de servicios con el análisis de datos.
+Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. Mi interés es aplicar esa formación al desarrollo de servicios y al análisis de información.
 
 <a id="stack"></a>
 
-## `$ cat tech-stack.yml`
+## Tecnologías
 
 <img src="./assets/stack.svg" width="100%" alt="Backend: Node.js, JavaScript y Java. Datos: MariaDB, PostgreSQL y Redis. Infraestructura: Docker, Linux y Git. Herramientas complementarias: Python, React y Next.js." />
 
 <a id="experiencia"></a>
 
-## `$ ls experience/`
+## Experiencia
 
 <p>
   <img src="./assets/messaging.svg" width="49%" alt="Axiona — Backend. Plataforma de mensajería con WhatsApp, CRM y bots; servicios, campañas e integraciones con Node.js, MariaDB y Redis." />
@@ -36,15 +36,13 @@ Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de 
 - **GIT Colombia · Desarrollo de software por proyecto** — Backend con Node.js y componentes de React para una aplicación de gestión de personal y soporte técnico, junto a un equipo de cinco personas.
 - **VC Soft · Prácticas de desarrollo de software** — Revisión de pruebas de código y proyectos técnicos, y apoyo a entrevistas y evaluación de perfiles junior.
 
-## `$ cat learning.md`
+## Formación
 
 **Ingeniería en Analítica de Datos · en curso desde 2026**<br />
 Universidad de Manizales
 
 **Tecnólogo en Análisis y Desarrollo de Software · 2025**<br />
 SENA
-
-`Backend` → `APIs e integraciones` → `Analítica de datos`
 
 <details>
 <summary><strong>Explorar mis repositorios públicos</strong></summary>
