@@ -41,35 +41,36 @@ Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de 
 
 ## Proyectos
 
-### G.I.T Colombia · Gestión administrativa
+<p>
+  <img src="./assets/project-git-colombia.svg" width="100%" alt="G.I.T Colombia — Gestión administrativa y servicio técnico. Node.js, React, PostgreSQL y Sequelize. Proyecto privado desarrollado en equipo." />
+</p>
+<p>
+  <img src="./assets/project-whatscrap.svg" width="100%" alt="Whatscrap — Campañas, respuestas y archivos multimedia. Node.js, Redis, BullMQ y Puppeteer. Contribuciones en Axiona; repositorio privado." />
+</p>
+<p>
+  <a href="https://github.com/WENDOSKI07/support-metrics-api">
+    <img src="./assets/project-support-metrics.svg" width="100%" alt="Support Metrics API — Proyecto público en desarrollo con TypeScript y Fastify. Rutas de salud y pruebas HTTP; tickets, autenticación y métricas pendientes. Abrir repositorio." />
+  </a>
+</p>
 
-Aplicación desarrollada en equipo para gestionar personas, contratos, afiliaciones y novedades, junto con clientes, servicios técnicos, visitas y costos. Incluye autenticación, roles y generación de reportes.
+<details>
+<summary><strong>Más sobre los proyectos y mi participación</strong></summary>
 
-**Tecnologías:** Node.js, Express, React, PostgreSQL y Sequelize.  
-**Repositorio:** `Git_Colombia` · privado.
+**G.I.T Colombia:** aplicación desarrollada en equipo para talento humano, contratos, afiliaciones, clientes, servicios técnicos, visitas y costos. Incluye autenticación, roles y generación de reportes. Backend con Express y Sequelize, y frontend con React.
 
-### Whatscrap · Mensajería e integraciones
+**Whatscrap:** mis contribuciones durante mi experiencia en Axiona incluyen mejoras en campañas, procesamiento de respuestas y manejo de imágenes y audio. Utiliza Express, Redis, BullMQ, Puppeteer y SQL.
 
-Proyecto trabajado durante mi experiencia en Axiona. Mis contribuciones incluyen mejoras en los flujos de mensajería, campañas, procesamiento de respuestas y manejo de imágenes y audio.
+**Support Metrics API:** proyecto personal de aprendizaje y portafolio. Actualmente tiene un servidor básico con rutas de salud e información y pruebas HTTP; la gestión de tickets, autenticación y métricas sigue pendiente.
 
-**Tecnologías:** Node.js, Express, Redis, BullMQ, Puppeteer y SQL.  
-**Repositorio:** `whatscrap` · privado.
+Los dos proyectos de experiencia profesional se mantienen privados. Sus tarjetas presentan el trabajo realizado sin publicar su código.
 
-Los repositorios privados conservan el historial de trabajo y la autoría de las contribuciones; su código no está disponible públicamente.
-
-### [Support Metrics API](https://github.com/WENDOSKI07/support-metrics-api) · En desarrollo
-
-Proyecto público de aprendizaje y portafolio orientado al registro y análisis de solicitudes de soporte. Actualmente cuenta con un servidor básico y rutas de salud e información; la gestión de tickets, autenticación y métricas está pendiente.
-
-**Tecnologías:** TypeScript, Fastify y Node.js.
+</details>
 
 ## Formación
 
-**Ingeniería en Analítica de Datos · en curso desde 2026**<br />
-Universidad de Manizales
-
-**Tecnólogo en Análisis y Desarrollo de Software · 2025**<br />
-SENA
+<p>
+  <img src="./assets/education-cards.svg" width="100%" alt="Ingeniería en Analítica de Datos en la Universidad de Manizales, en curso desde 2026. Tecnólogo en Análisis y Desarrollo de Software, SENA, 2025." />
+</p>
 
 <details>
 <summary><strong>Explorar mis repositorios públicos</strong></summary>
