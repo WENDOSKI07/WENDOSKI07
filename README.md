@@ -6,6 +6,7 @@
   <a href="#sobre-mi">Sobre mí</a> &nbsp; / &nbsp;
   <a href="#stack">Tecnologías</a> &nbsp; / &nbsp;
   <a href="#experiencia">Experiencia</a> &nbsp; / &nbsp;
+  <a href="#proyectos">Proyectos</a> &nbsp; / &nbsp;
   <a href="https://github.com/WENDOSKI07?tab=repositories">Repositorios</a>
 </p>
 
@@ -13,7 +14,7 @@
 
 ## Sobre mí
 
-Soy **Oscar Ricaurte**, desarrollador backend. Trabajo con **Node.js, APIs REST e integraciones** para aplicaciones web y plataformas de mensajería. Mi experiencia incluye bases de datos relacionales, Redis y despliegues con Docker en Linux.
+Soy **Oscar Ricaurte**, desarrollador backend. Trabajo con **Node.js, APIs REST e integraciones** para aplicaciones web y plataformas de mensajería. Mi experiencia incluye bases de datos relacionales, Redis, procesamiento de tareas en segundo plano y despliegues con Docker en Linux. También he trabajado con React en aplicaciones de gestión administrativa.
 
 Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. Mi interés es aplicar esa formación al desarrollo de servicios y al análisis de información.
 
@@ -32,9 +33,35 @@ Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de 
   <img src="./assets/management.svg" width="49%" alt="GIT Colombia — Desarrollo. Aplicación de gestión de personal y soporte técnico, en equipo, con Node.js, React y Git." />
 </p>
 
-- **Axiona · Backend Developer** — Desarrollo y mantenimiento de APIs, flujos de mensajería e integraciones. Despliegue en Linux con Docker y resolución de incidencias mediante logs, bases de datos y monitoreo.
-- **GIT Colombia · Desarrollo de software por proyecto** — Backend con Node.js y componentes de React para una aplicación de gestión de personal y soporte técnico, junto a un equipo de cinco personas.
+- **Axiona · Backend Developer** — Desarrollo y mantenimiento de APIs e integraciones para mensajería con WhatsApp. Trabajo en campañas, procesamiento de respuestas y manejo de archivos multimedia con Node.js, Redis y bases de datos SQL. Despliegue en Linux con Docker y resolución de incidencias.
+- **GIT Colombia · Desarrollo de software por proyecto** — Desarrollo en equipo de una aplicación para talento humano, gestión administrativa y servicio técnico. Backend con Node.js, Express, Sequelize y PostgreSQL, y componentes de interfaz con React.
 - **VC Soft · Prácticas de desarrollo de software** — Revisión de pruebas de código y proyectos técnicos, y apoyo a entrevistas y evaluación de perfiles junior.
+
+<a id="proyectos"></a>
+
+## Proyectos
+
+### G.I.T Colombia · Gestión administrativa
+
+Aplicación desarrollada en equipo para gestionar personas, contratos, afiliaciones y novedades, junto con clientes, servicios técnicos, visitas y costos. Incluye autenticación, roles y generación de reportes.
+
+**Tecnologías:** Node.js, Express, React, PostgreSQL y Sequelize.  
+**Repositorio:** `Git_Colombia` · privado.
+
+### Whatscrap · Mensajería e integraciones
+
+Proyecto trabajado durante mi experiencia en Axiona. Mis contribuciones incluyen mejoras en los flujos de mensajería, campañas, procesamiento de respuestas y manejo de imágenes y audio.
+
+**Tecnologías:** Node.js, Express, Redis, BullMQ, Puppeteer y SQL.  
+**Repositorio:** `whatscrap` · privado.
+
+Los repositorios privados conservan el historial de trabajo y la autoría de las contribuciones; su código no está disponible públicamente.
+
+### [Support Metrics API](https://github.com/WENDOSKI07/support-metrics-api) · En desarrollo
+
+Proyecto público de aprendizaje y portafolio orientado al registro y análisis de solicitudes de soporte. Actualmente cuenta con un servidor básico y rutas de salud e información; la gestión de tickets, autenticación y métricas está pendiente.
+
+**Tecnologías:** TypeScript, Fastify y Node.js.
 
 ## Formación
 
@@ -47,10 +74,11 @@ SENA
 <details>
 <summary><strong>Explorar mis repositorios públicos</strong></summary>
 
-Una selección de ejercicios y proyectos publicados:
+Una selección de proyectos y ejercicios disponibles para consultar:
 
-- [ProyectoGit-](https://github.com/WENDOSKI07/ProyectoGit-)
-- [ejemplos_php](https://github.com/WENDOSKI07/ejemplos_php)
+- [Support Metrics API](https://github.com/WENDOSKI07/support-metrics-api) — API de aprendizaje con TypeScript y Fastify.
+- [ProyectoGit-](https://github.com/WENDOSKI07/ProyectoGit-) — Prototipo inicial de GIT Colombia en HTML y CSS.
+- [ejemplos_php](https://github.com/WENDOSKI07/ejemplos_php) — Ejercicios de PHP.
 - [Ver todos los repositorios](https://github.com/WENDOSKI07?tab=repositories)
 
 </details>
