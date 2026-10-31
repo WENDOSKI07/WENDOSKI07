@@ -21,7 +21,10 @@ Estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. M
 
 <p>
   <a href="https://github.com/WENDOSKI07/support-metrics-api">
-    <img src="./assets/project-support-metrics.svg" width="100%" alt="Support Metrics API — Mesa de soporte con TypeScript, Fastify y PostgreSQL. Tickets, roles, historial, métricas y pruebas de integración. Proyecto personal de demostración local. Abrir repositorio." />
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/project-support-metrics-mobile.svg" />
+      <img src="./assets/project-support-metrics.svg" width="100%" alt="Support Metrics API — Mesa de soporte con TypeScript, Fastify y PostgreSQL. Tickets, roles, historial, métricas y pruebas de integración. Proyecto personal de demostración local. Abrir repositorio." />
+    </picture>
   </a>
 </p>
 
@@ -43,7 +46,10 @@ El repositorio incluye instrucciones, reglas del sistema y una guía de rutas. S
 
 <p>
   <a href="https://github.com/WENDOSKI07/sistema-gestion-academica">
-    <img src="./assets/project-academic.svg" width="100%" alt="Sistema de Gestión Académica — Proyecto académico colaborativo en Python. Consola, MVC, POO, validaciones, excepciones y pruebas automatizadas. Abrir repositorio." />
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/project-academic-mobile.svg" />
+      <img src="./assets/project-academic.svg" width="100%" alt="Sistema de Gestión Académica — Proyecto académico colaborativo en Python. Consola, MVC, POO, validaciones, excepciones y pruebas automatizadas. Abrir repositorio." />
+    </picture>
   </a>
 </p>
 
