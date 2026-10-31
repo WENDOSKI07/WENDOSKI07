@@ -1,70 +1,83 @@
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Oscar Ricaurte — Backend Developer. APIs REST, Node.js, Redis y SQL. Estudiante de Ingeniería en Analítica de Datos." />
+  <img src="./assets/terminal.svg" width="100%" alt="Oscar Ricaurte — Desarrollador backend. APIs e integraciones con Node.js, TypeScript y SQL. Estudiante de Ingeniería en Analítica de Datos." />
 </p>
 
 <p align="center">
-  <a href="#sobre-mi">Sobre mí</a> &nbsp; / &nbsp;
-  <a href="#stack">Tecnologías</a> &nbsp; / &nbsp;
+  <a href="#proyectos">Proyectos públicos</a> &nbsp; / &nbsp;
   <a href="#experiencia">Experiencia</a> &nbsp; / &nbsp;
-  <a href="#proyectos">Proyectos</a> &nbsp; / &nbsp;
-  <a href="https://github.com/WENDOSKI07?tab=repositories">Repositorios</a>
+  <a href="#stack">Tecnologías</a> &nbsp; / &nbsp;
+  <a href="#contacto">Contacto</a>
 </p>
-
-<a id="sobre-mi"></a>
 
 ## Sobre mí
 
-Soy **Oscar Ricaurte**, desarrollador backend. Trabajo con **Node.js, APIs REST e integraciones** para aplicaciones web y plataformas de mensajería. Mi experiencia incluye bases de datos relacionales, Redis, procesamiento de tareas en segundo plano y despliegues con Docker en Linux. También he trabajado con React en aplicaciones de gestión administrativa.
+Soy **Oscar Ricaurte**, desarrollador backend. Desarrollo **APIs e integraciones con Node.js, TypeScript y SQL** para aplicaciones web y plataformas de mensajería. Mi experiencia incluye bases de datos relacionales, procesamiento de tareas con Redis y BullMQ, y despliegues con Docker en Linux.
 
-Actualmente estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. Mi interés es aplicar esa formación al desarrollo de servicios y al análisis de información.
+Estudio **Ingeniería en Analítica de Datos** en la Universidad de Manizales. Me interesa conectar el desarrollo backend con la trazabilidad de procesos y el análisis de información.
+
+<a id="proyectos"></a>
+
+## Proyectos públicos
+
+<p>
+  <a href="https://github.com/WENDOSKI07/support-metrics-api">
+    <img src="./assets/project-support-metrics.svg" width="100%" alt="Support Metrics API — Mesa de soporte con TypeScript, Fastify y PostgreSQL. Tickets, roles, historial, métricas y pruebas de integración. Proyecto personal de demostración local. Abrir repositorio." />
+  </a>
+</p>
+
+**[Support Metrics API](https://github.com/WENDOSKI07/support-metrics-api)** es mi proyecto personal de portafolio: una mesa de soporte para registrar solicitudes, conservar su historial y analizar su atención.
+
+<details>
+<summary><strong>Ver funcionalidades y evidencia técnica</strong></summary>
+
+- TypeScript, Fastify y PostgreSQL, con interfaz web nativa.
+- Autenticación mediante sesiones y roles de solicitante y soporte.
+- Tickets con comentarios, prioridades, responsables e historial de cambios.
+- Control de versiones para detectar actualizaciones en conflicto.
+- Métricas operativas, exportación CSV e instantáneas para análisis con Power BI.
+- Migraciones SQL, Docker Compose y pruebas aisladas y de integración.
+
+El repositorio incluye instrucciones, reglas del sistema y una guía de rutas. Su alcance es una aplicación local de aprendizaje y demostración. Las comprobaciones documentadas son `npm test` y `npm run test:db`; GitHub Actions está desactivado.
+
+</details>
+
+<p>
+  <a href="https://github.com/WENDOSKI07/sistema-gestion-academica">
+    <img src="./assets/project-academic.svg" width="100%" alt="Sistema de Gestión Académica — Proyecto académico colaborativo en Python. Consola, MVC, POO, validaciones, excepciones y pruebas automatizadas. Abrir repositorio." />
+  </a>
+</p>
+
+**[Sistema de Gestión Académica](https://github.com/WENDOSKI07/sistema-gestion-academica)** es un proyecto académico colaborativo de Programación I de la Universidad de Manizales.
+
+<details>
+<summary><strong>Ver alcance y colaboración</strong></summary>
+
+Organiza estudiantes, docentes, administrativos, programas y asignaturas mediante una interfaz de consola y arquitectura MVC. Aplica encapsulamiento, herencia, polimorfismo, validaciones y excepciones personalizadas.
+
+Incluye pruebas automatizadas de búsquedas y excepciones. Los datos se mantienen en memoria durante la ejecución. La autoría es compartida; el historial Git identifica los aportes de cada integrante.
+
+</details>
+
+<a id="experiencia"></a>
+
+## Experiencia en proyectos privados
+
+- **Axiona · Desarrollo backend** — Contribuciones en una plataforma de mensajería con WhatsApp: APIs, integraciones, campañas, procesamiento de respuestas y manejo de archivos multimedia. Node.js, Redis, BullMQ, SQL y Docker en Linux.
+- **GIT Colombia · Desarrollo de software en equipo** — Participación en una aplicación de gestión administrativa, talento humano y servicio técnico, con trabajo en backend e interfaz.
+- **VC Soft · Prácticas de desarrollo de software** — Apoyo en revisión de pruebas de código, proyectos técnicos y evaluación de perfiles junior.
+
+El código de los proyectos privados no se publica. Las descripciones presentan el contexto de mi participación.
 
 <a id="stack"></a>
 
 ## Tecnologías
 
-<img src="./assets/stack.svg" width="100%" alt="Backend: Node.js, JavaScript y Java. Datos: MariaDB, PostgreSQL y Redis. Infraestructura: Docker, Linux y Git. Herramientas complementarias: Python, React y Next.js." />
-
-<a id="experiencia"></a>
-
-## Experiencia
-
-<p>
-  <img src="./assets/messaging.svg" width="49%" alt="Axiona — Backend. Plataforma de mensajería con WhatsApp, CRM y bots; servicios, campañas e integraciones con Node.js, MariaDB y Redis." />
-  <img src="./assets/management.svg" width="49%" alt="GIT Colombia — Desarrollo. Aplicación de gestión de personal y soporte técnico, en equipo, con Node.js, React y Git." />
-</p>
-
-- **Axiona · Backend Developer** — Desarrollo y mantenimiento de APIs e integraciones para mensajería con WhatsApp. Trabajo en campañas, procesamiento de respuestas y manejo de archivos multimedia con Node.js, Redis y bases de datos SQL. Despliegue en Linux con Docker y resolución de incidencias.
-- **GIT Colombia · Desarrollo de software por proyecto** — Desarrollo en equipo de una aplicación para talento humano, gestión administrativa y servicio técnico. Backend con Node.js, Express, Sequelize y PostgreSQL, y componentes de interfaz con React.
-- **VC Soft · Prácticas de desarrollo de software** — Revisión de pruebas de código y proyectos técnicos, y apoyo a entrevistas y evaluación de perfiles junior.
-
-<a id="proyectos"></a>
-
-## Proyectos
-
-<p>
-  <img src="./assets/project-git-colombia.svg" width="100%" alt="G.I.T Colombia — Gestión administrativa y servicio técnico. Node.js, React, PostgreSQL y Sequelize. Proyecto privado desarrollado en equipo." />
-</p>
-<p>
-  <img src="./assets/project-whatscrap.svg" width="100%" alt="Whatscrap — Campañas, respuestas y archivos multimedia. Node.js, Redis, BullMQ y Puppeteer. Contribuciones en Axiona; repositorio privado." />
-</p>
-<p>
-  <a href="https://github.com/WENDOSKI07/support-metrics-api">
-    <img src="./assets/project-support-metrics.svg" width="100%" alt="Support Metrics API — Proyecto público en desarrollo con TypeScript y Fastify. Rutas de salud y pruebas HTTP; tickets, autenticación y métricas pendientes. Abrir repositorio." />
-  </a>
-</p>
-
-<details>
-<summary><strong>Más sobre los proyectos y mi participación</strong></summary>
-
-**G.I.T Colombia:** aplicación desarrollada en equipo para talento humano, contratos, afiliaciones, clientes, servicios técnicos, visitas y costos. Incluye autenticación, roles y generación de reportes. Backend con Express y Sequelize, y frontend con React.
-
-**Whatscrap:** mis contribuciones durante mi experiencia en Axiona incluyen mejoras en campañas, procesamiento de respuestas y manejo de imágenes y audio. Utiliza Express, Redis, BullMQ, Puppeteer y SQL.
-
-**Support Metrics API:** proyecto personal de aprendizaje y portafolio. Actualmente tiene un servidor básico con rutas de salud e información y pruebas HTTP; la gestión de tickets, autenticación y métricas sigue pendiente.
-
-Los dos proyectos de experiencia profesional se mantienen privados. Sus tarjetas presentan el trabajo realizado sin publicar su código.
-
-</details>
+| Área | Herramientas |
+| --- | --- |
+| Backend | JavaScript · TypeScript · Node.js · Fastify · Express |
+| Datos y procesamiento | PostgreSQL · MariaDB/MySQL · Redis · BullMQ |
+| Entorno y herramientas | Git · Docker · Linux |
+| Experiencia complementaria | Python · Java · React |
 
 ## Formación
 
@@ -73,21 +86,16 @@ Los dos proyectos de experiencia profesional se mantienen privados. Sus tarjetas
 </p>
 
 <details>
-<summary><strong>Explorar mis repositorios públicos</strong></summary>
+<summary><strong>Antecedentes y otros repositorios</strong></summary>
 
-Una selección de proyectos y ejercicios disponibles para consultar:
+[ProyectoGit-](https://github.com/WENDOSKI07/ProyectoGit-) es el prototipo inicial de GIT Colombia en HTML, CSS y JavaScript. Lo conservo como antecedente del trabajo en equipo.
 
-- [Support Metrics API](https://github.com/WENDOSKI07/support-metrics-api) — API de aprendizaje con TypeScript y Fastify.
-- [ProyectoGit-](https://github.com/WENDOSKI07/ProyectoGit-) — Prototipo inicial de GIT Colombia en HTML y CSS.
-- [ejemplos_php](https://github.com/WENDOSKI07/ejemplos_php) — Ejercicios de PHP.
-- [Ver todos los repositorios](https://github.com/WENDOSKI07?tab=repositories)
+[Consultar todos mis repositorios](https://github.com/WENDOSKI07?tab=repositories).
 
 </details>
 
----
+<a id="contacto"></a>
 
-<p align="center">
-  <strong>OSCAR RICAURTE</strong><br />
-  <sub>Backend · APIs · Datos</sub><br /><br />
-  <a href="https://github.com/WENDOSKI07?tab=repositories">Explorar mi código ↗</a>
-</p>
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/oscar-ricaurte-142315367/) · [Repositorios](https://github.com/WENDOSKI07?tab=repositories)
